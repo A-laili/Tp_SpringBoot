@@ -1,4 +1,4 @@
-# 'Application de Gestion  SpringBoot Avec Swagger
+# Application de gestion des étudiants avec SpringBoot et test Swagger
 
 Dans ce tutoriel, nous allons explorer comment utiliser Spring Boot et Swagger pour créer une application Java robuste. Nous allons concevoir une application avec les fonctionnalités suivantes :
 
